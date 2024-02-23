@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a full-stack Ruby on Rails developer. I work as a full-time software engineer (backend) at Happy5.
+I'm a full-stack web developer. I work as a full-time software engineer (backend) at Happy5. Ruby on Rails is my go-to framework.
 
 Apart from my main full-time job, here's what I do in the meantime:
 - [Tanggal Merah Terdekat](https://tanggal-merah-terdekat.vercel.app), a simple website that informs the nearest public holiday in Indonesia.
